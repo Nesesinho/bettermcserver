@@ -1,2 +1,0 @@
-# bettermcserver
-# bettermcserver
