@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "ccc68da3bb013f62b550ab607bdb8a42"
+	name: "ScarlletSaito#ccc68da3"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		61EF88FC45DE94F5: 1
+	}
+	started: {
+		4E33D80DA11F2414: 1710815543989L
+		61EF88FC45DE94F5: 1710815543989L
+		0000000000000001: 1710815543989L
+		4BBAB429C5402A23: 1710815543989L
+	}
+	completed: {
+		61EF88FC45DE94F5: 1710815543994L
+		4BBAB429C5402A23: 1710815543994L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

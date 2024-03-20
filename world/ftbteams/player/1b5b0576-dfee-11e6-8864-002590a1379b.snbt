@@ -1,0 +1,15 @@
+{
+	id: "1b5b0576-dfee-11e6-8864-002590a1379b"
+	type: "player"
+	player_name: "MrNese"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "MrNese"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFBC59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

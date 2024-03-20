@@ -1,0 +1,15 @@
+{
+	id: "2bb285bc-e54e-3646-9595-47bd1d48bf48"
+	type: "player"
+	player_name: "RKalim_19"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "RKalim_19"
+		"ftbteams:description": ""
+		"ftbteams:color": "#599FFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

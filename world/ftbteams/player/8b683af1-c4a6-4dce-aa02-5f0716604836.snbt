@@ -1,0 +1,15 @@
+{
+	id: "8b683af1-c4a6-4dce-aa02-5f0716604836"
+	type: "player"
+	player_name: "0_Gabs_0"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "0_Gabs_0"
+		"ftbteams:description": ""
+		"ftbteams:color": "#AFFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

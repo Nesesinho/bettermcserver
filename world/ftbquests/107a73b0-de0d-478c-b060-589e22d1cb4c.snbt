@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "107a73b0de0d478cb060589e22d1cb4c"
+	name: "AshLightvale#107a73b0"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

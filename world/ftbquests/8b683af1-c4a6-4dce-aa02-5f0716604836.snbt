@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "8b683af1c4a64dceaa025f0716604836"
+	name: "0_Gabs_0#8b683af1"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

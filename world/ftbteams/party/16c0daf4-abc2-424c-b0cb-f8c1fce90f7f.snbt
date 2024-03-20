@@ -1,0 +1,29 @@
+{
+	id: "16c0daf4-abc2-424c-b0cb-f8c1fce90f7f"
+	type: "party"
+	owner: "1b5b0576-dfee-11e6-8864-002590a1379b"
+	ranks: {
+		8b683af1-c4a6-4dce-aa02-5f0716604836: "member"
+		107a73b0-de0d-478c-b060-589e22d1cb4c: "member"
+		1b5b0576-dfee-11e6-8864-002590a1379b: "owner"
+		2bb285bc-e54e-3646-9595-47bd1d48bf48: "officer"
+	}
+	properties: {
+		"ftbteams:display_name": "Stellae"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59DFFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1710733928853L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"MrNese\"}]}" }
+		{ from: "1b5b0576-dfee-11e6-8864-002590a1379b", date: 1710733928911L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"RKalim_19\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1710733932115L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"RKalim_19\"}]}" }
+		{ from: "1b5b0576-dfee-11e6-8864-002590a1379b", date: 1710809304795L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"0_Gabs_0\"}]}" }
+		{ from: "1b5b0576-dfee-11e6-8864-002590a1379b", date: 1710809304796L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"AshLightvale\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1710809308149L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"0_Gabs_0\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1710809309237L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"AshLightvale\"}]}" }
+		{ from: "1b5b0576-dfee-11e6-8864-002590a1379b", date: 1710809443804L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"RKalim_19\"}]}" }
+	]
+	extra: { }
+}

@@ -1,0 +1,15 @@
+{
+	id: "107a73b0-de0d-478c-b060-589e22d1cb4c"
+	type: "player"
+	player_name: "AshLightvale"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "AshLightvale"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59B3"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
